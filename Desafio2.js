@@ -1,7 +1,7 @@
 //
 let saldoDePartidas = 100
 let resultado = calcular (80, 20)
-console.log("Herói com saldo de: " + resultado + " Vitórias .")
+console.log("Herói com saldo de: " + resultado + " vitórias .")
 
 function calcular(vitorias, derrotas){
     let subtrair = vitorias - derrotas
